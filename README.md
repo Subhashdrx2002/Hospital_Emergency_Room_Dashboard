@@ -1,5 +1,6 @@
 # Hospital_Emergency_Room_Dashboard
 Here's a professional and clear README.md file you can use for your Hospital Emergency Room Dashboard project on GitHub:
+<img src="https://github.com/SatishDhawale/Hospital_Emergency_Room_Dashboard/blob/4ed886d2946467c75855e21291b18d07011c7189/Hospital%20Dashboard%20Final%20.jpg" alt="Image Description" width="600">
 
 
 ---
